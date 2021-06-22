@@ -1,2 +1,2 @@
 # prometheus-java
-prometheus monitors Springboot rest api demo
+prometheus monitors Springboot2.x rest api demo
